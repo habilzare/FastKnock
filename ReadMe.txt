@@ -1,6 +1,7 @@
 
 Introduction:
-	FastKnock is an efficient algorithm to identify all possible knockout strategies for growth-coupled overproduction of biochemical(s) of interest.
+	FastKnock is an efficient algorithm to identify all possible knockout strategies for growth-coupled overproduction of biochemical(s) of interest. The methodology is described in the following manuscript:
+	Hassani et al. "FastKnock: An efficient approach to identify all knockout strategies for strain optimization", Submitted 2021.
 
 
 Prerequisites:
